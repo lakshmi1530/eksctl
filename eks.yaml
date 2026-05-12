@@ -11,4 +11,4 @@ managedNodeGroups:
 - name: spot
   instanceType: t3.medium
   spot: true
-  desiredCapacity: 2
+  desiredCapacity: 1
